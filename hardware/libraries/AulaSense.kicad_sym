@@ -5,7 +5,6 @@
 	(symbol "ESP32_DevKitV1_Header_Left"
 		(pin_names
 			(offset 1.016)
-			(hide yes)
 		)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -540,7 +539,6 @@
 	(symbol "ESP32_DevKitV1_Header_Right"
 		(pin_names
 			(offset 1.016)
-			(hide yes)
 		)
 		(exclude_from_sim no)
 		(in_bom yes)
