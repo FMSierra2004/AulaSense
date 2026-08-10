@@ -1,0 +1,43 @@
+﻿# Archivos temporales de KiCad
+*.000
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-backups/
+*-cache*
+*~
+~*
+_autosave-*
+*.tmp
+fp-info-cache
+~*.lck
+*.kicad_prl
+.history/
+
+# Compilaciones del firmware
+build/
+dist/
+.pio/
+cmake-build-*/
+CMakeFiles/
+*.bin
+*.hex
+*.elf
+*.map
+
+# Editores
+.vscode/
+.idea/
+
+# Credenciales y configuraciones privadas
+.env
+.env.*
+!.env.example
+firmware/config/secrets.*
+!firmware/config/secrets.example.*
+
+# Windows y macOS
+Thumbs.db
+Desktop.ini
+.DS_Store
