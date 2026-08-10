@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "AulaSense") (type "KiCad") (uri "${KIPRJMOD}/../libraries/AulaSense.kicad_sym") (options "") (descr ""))
+)
